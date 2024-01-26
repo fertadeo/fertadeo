@@ -1,6 +1,7 @@
 ### Hola! 👋
 
-Soy Fernando
+Soy Fernando 
+<img align="right" alt="GIF" src="./assets/profile.jpg" width="240px" />
 - Desarrollador FrontEnd con React
 - En formacion con BackEnd con Node.js
 <!--
