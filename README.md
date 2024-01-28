@@ -2,7 +2,8 @@
 
 I'm Fernando Tadeo
 <br> 
-<img align="right" alt="GIF" src="./assets/profile.jpg" width="240px" />
+<img align="center" alt="GIF" src="./assets/profile.jpg" width="240px" />
+
 - FrontEnd Dev with React 🔭
 - Currently learning Node.js and Nest.js 🌱.
 
@@ -16,7 +17,7 @@ I'm Fernando Tadeo
 </a>
 <br/>
 
----
+
 
 
 <!--
