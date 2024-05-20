@@ -1,7 +1,7 @@
 <div align='center'> 
 <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/84354414?s=400&u=e15fc37f5c00dce33fc892e339b01d60ba65313f&v=4" />
-   <h3 align="center">¡Hola👋! Soy Fernando Tadeo 👨🏻‍💻</h3>
+   <h3 align="center">¡Hello👋! I'm Fernando Tadeo 👨🏻‍💻</h3>
 </p>
 <br> 
  FrontEnd Dev with React 🔭
