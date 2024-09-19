@@ -8,7 +8,7 @@
  Currently learning Node.js and Nest.js 🌱.
 
   <p>📍 You can find me on:</p>
-  <a href="https://www.linkedin.com/in/fertadeo/" target="blank">
+  <a href="https://www.linkedin.com/in/ferrtadeo/" target="blank">
 <img align="center" alt="Fernando Tadeo Lindekin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.instagram.com/ferrtadeo/" target="blank">
